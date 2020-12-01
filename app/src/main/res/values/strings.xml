@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BankaksTest</string>
+    <string name="MainActivity_proceed">Proceed</string>
+    <string name="MainActivity_please_select_your_method">Please select your method.</string>
+    <string name="DynamicScreen_proceed">Proceed</string>
+    <string name="loading">Loading</string>
+    <string name="transactionDone">Transaction Done.</string>
+    <string-array name="dropdown_array">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+    </string-array>
+
+</resources>
